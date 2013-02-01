@@ -2,7 +2,7 @@
 ======
 ##Application Description
 
-[![calculator screenshot](https://github.com/samplecalculator/resources/images/calculator_img.png)]
+[![calculator screenshot](https://raw.github.com/samplecalculator/calculator/master/resources/images/calculator_default.png)]
 
 A graphical calculator that is interesting, creative, engaging, fun to use, and is efficient and gets the right answers.
 
@@ -12,4 +12,4 @@ The purpose of this application is to make an online calculator that could be us
 
 ##More Information
 
-For more detailed information, see the [development wiki] (https://github.com/samplecalculator/calculator/wiki)
+For more detailed information, see the [development wiki] (https://github.com/samplecalculator/calculator/wiki/Calculator-Application)
