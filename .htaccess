@@ -1,5 +1,4 @@
 <IfModule mod_rewrite.c>
-#Settings
 	RewriteEngine On
 	RewriteBase /
 	RewriteCond %{REQUEST_URI} ^/(private)/(.*)$
