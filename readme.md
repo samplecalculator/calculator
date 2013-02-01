@@ -4,11 +4,8 @@
 
 [![calculator screenshot](https://raw.github.com/samplecalculator/calculator/master/resources/images/calculator_default.png)]
 
-A graphical calculator that is interesting, creative, engaging, fun to use, and is efficient and gets the right answers.
-
-##Purpose
-
-The purpose of this application is to make an online calculator that could be used by anyone register, and provide mathematical assistance when needed.
+An online graphical calculator was created to provide mathematical assistance to anyone [register](http://www.srglema.com/calculator/).
+The application had to be _effective_, _interesting_, _fun to use_ and _provide right answers_, you can take a look at the application live [here](http://www.srglema.com/calculator/). 
 
 ##More Information
 
